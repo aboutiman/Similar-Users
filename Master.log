@@ -1,0 +1,16 @@
+INFO 2021-03-13 23:05:25,711 
+	 log file created...
+INFO 2021-03-13 23:05:25,738 
+	 No configs found; falling back on auto-configuration
+WARNING 2021-03-13 23:05:25,738 
+	 No configs specified for inline runner
+INFO 2021-03-13 23:05:25,739 
+	 Creating temp directory C:\Users\iman\AppData\Local\Temp\Master.iman.20210313.193525.738751
+INFO 2021-03-13 23:05:25,740 
+	 Running step 1 of 1...
+INFO 2021-03-13 23:05:27,870 
+	 job output is in C:\Users\iman\AppData\Local\Temp\Master.iman.20210313.193525.738751\output
+INFO 2021-03-13 23:05:27,871 
+	 Streaming final output from C:\Users\iman\AppData\Local\Temp\Master.iman.20210313.193525.738751\output...
+INFO 2021-03-13 23:05:27,897 
+	 Removing temp directory C:\Users\iman\AppData\Local\Temp\Master.iman.20210313.193525.738751...
